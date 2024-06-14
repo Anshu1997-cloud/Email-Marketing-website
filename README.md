@@ -1,4 +1,4 @@
--# MailChimp-Email-Marketing Service 
+# MailChimp-Email-Marketing Service 
 
 # Installation-
 - npx create-react-app
