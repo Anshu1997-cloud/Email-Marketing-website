@@ -22,4 +22,4 @@
 
 # Screenshots -
 <h1>Landing Page</h1>
-<img src="https://fascinating-nougat-915e4d.netlify.app/" alt="My Image" width="200"/>
+   ![mailclimp landing page](https://github.com/Anshu1997-cloud/Email-Marketing-website/assets/135546335/c677e4f0-1575-406f-8390-7a7c3c46c78c)
