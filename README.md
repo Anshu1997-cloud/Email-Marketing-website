@@ -22,4 +22,4 @@
 
 # Screenshots -
 <h1>Landing Page</h1>
-![My Image](![My Image](https://fascinating-nougat-915e4d.netlify.app/)
+<img src="https://fascinating-nougat-915e4d.netlify.app/" alt="My Image" width="200"/>
