@@ -18,7 +18,7 @@
 - Utilized Firestore database and FireAuth-based authentication for secure user data management.
 - Integrated social signup and login functionality for a seamless user experience.
 - Implemented chakra ui for creating user-appealing interface
-- Added a dropdown menu in the navbar to implement real effect of making a professional website
+- Added a dropdown menu in the navbar to implement the real effect of making a professional website
 
 # Screenshots -
 <h1>Landing Page</h1>
@@ -34,6 +34,9 @@
 ![mailclimp-signup](https://github.com/Anshu1997-cloud/Email-Marketing-website/assets/135546335/52019f46-f909-47a0-bc2c-0dce34357dc7)
 
 <h1>Footer section</h1>
+
+
+![mailclimp-footer](https://github.com/Anshu1997-cloud/Email-Marketing-website/assets/135546335/50c43a6a-fc0e-40a0-8cb4-c7a937456227)
 
 
 
