@@ -19,3 +19,7 @@
 - Integrated social signup and login functionality for a seamless user experience.
 - Implemented chakra ui for creating user-appealing interface
 - Added a dropdown menu in the navbar to implement real effect of making a professional website
+
+# Screenshots -
+<h1>Landing Page</h1>
+<img src = "https://fascinating-nougat-915e4d.netlify.app/"/>
