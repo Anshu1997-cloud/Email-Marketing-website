@@ -31,4 +31,9 @@
 
 <h1>SignUp Page</h1>
 
+![mailclimp-signup](https://github.com/Anshu1997-cloud/Email-Marketing-website/assets/135546335/52019f46-f909-47a0-bc2c-0dce34357dc7)
+
+<h1>Footer section</h1>
+
+
 
